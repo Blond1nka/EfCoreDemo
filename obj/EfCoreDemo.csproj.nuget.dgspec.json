@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj": {}
+    "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\Entity Framework Core\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj": {
+    "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\Entity Framework Core\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
+        "projectUniqueName": "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\Entity Framework Core\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
         "projectName": "EfCoreDemo",
-        "projectPath": "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
+        "projectPath": "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\Entity Framework Core\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
         "packagesPath": "C:\\Users\\polin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\EfCoreDemo\\EfCoreDemo\\obj\\",
+        "outputPath": "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\Entity Framework Core\\EfCoreDemo\\EfCoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\polin\\AppData\\Roaming\\NuGet\\NuGet.Config",

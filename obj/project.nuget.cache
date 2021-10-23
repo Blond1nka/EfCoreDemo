@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pt28EADgdn3oXfmF80R+YvYr6pZnaIl6xaob4NoGRPQjuyoJRGX/xlW7TBdZtFnhDEJK36JMWVNkhAKt5ybT4A==",
+  "dgSpecHash": "IpqEBb1Hk+oLGfaYQT+wzqVIz0pO3pqCxIUWeanf1pqT0+QVuNjtuhA6qXqO0kBOy8xht2uZh7zWZhf3/FxqOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\polin\\OneDrive\\Desktop\\.net\\Entity Framework Core\\EfCoreDemo\\EfCoreDemo\\EfCoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\polin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\polin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.9\\microsoft.aspnetcore.mvc.razor.extensions.5.0.9.nupkg.sha512",
