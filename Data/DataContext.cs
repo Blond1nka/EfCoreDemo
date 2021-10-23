@@ -12,7 +12,7 @@ namespace EfCoreDemo.Data
     { 
         public DbSet<ShopItem> ShopItems { get; set; }
         public DbSet<Shop> Shops { get; set; }
-        public DbSet<ItemTag> ItemTag { get; set; }
+        public DbSet<ItemTag> ItemTags { get; set; }
         public DbSet<ShopItemItemTag> ShopItemItemTags { get; set; }
 
         public DataContext(DbContextOptions options) : base(options)

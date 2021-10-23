@@ -8,7 +8,7 @@ namespace EfCoreDemo.Models
 {
     public class ShopItem
     {
-        public int Id { get; set; }
+        public int Id { get; set; } // ID by default yra Primary Key. Kitu atveju reikia nurodyti [KEY]
         public string Name { get; set; }
         public decimal Price { get; set; }
         public DateTime Created { get; set; } = DateTime.Now;
