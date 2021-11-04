@@ -28,7 +28,8 @@ namespace EfCoreDemo.Data
 
             modelBuider.Entity<Shop>()
                 .HasMany(s => s.ShopItems)
-                .WithOne(si => si.Shop);
+                .WithOne(si => si.Shop)
+                .HasForeignKey(si => si.ShopId);
 
             modelBuider.Entity<ShopItemItemTag>()
                 .HasKey(bc => new { bc.ShopItemId, bc.TagId });

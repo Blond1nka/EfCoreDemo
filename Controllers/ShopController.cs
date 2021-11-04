@@ -38,5 +38,30 @@ namespace EfCoreDemo.Controllers
 
             return RedirectToAction("Index");
         }
+
+        public IActionResult Delete(int id)
+        {
+            var shop = _context.Shops.FirstOrDefault(s => s.Id == id);
+
+            _context.Remove(shop);
+            _context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Edit(int id)
+        {
+            var shop = _context.Shops.FirstOrDefault(s => s.Id == id);
+            return View(shop);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Shop shop)
+        {
+            _context.Shops.Update(shop);
+            _context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
     }
 }
